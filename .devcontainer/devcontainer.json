@@ -37,6 +37,7 @@
 	"gencay.vscode-chatgpt",
 	"ritwickdey.LiveServer",
 	"yzhang.markdown-all-in-one",
-	"mitchdenny.ecdc"
+	"mitchdenny.ecdc",
+	"GitHub.vscode-pull-request-github"
 ]
 }

@@ -21,17 +21,22 @@
   // Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
   // "remoteUser": "root"
   "extensions": [
-    "ms-vscode.live-server",
-    "dbaeumer.vscode-eslint",
-    "stylelint.vscode-stylelint",
-    "Syler.sass-indented",
-    "esbenp.prettier-vscode",
-    "streetsidesoftware.code-spell-checker",
-    "naumovs.color-highlight",
-    "formulahendry.auto-rename-tag",
-    "styled-components.vscode-styled-components",
-    "Gruntfuggly.todo-tree",
-    "mhutchie.git-graph",
-    "njpwerner.autodocstring"
-  ]
+	"ms-vscode.live-server",
+	"dbaeumer.vscode-eslint",
+	"stylelint.vscode-stylelint",
+	"Syler.sass-indented",
+	"esbenp.prettier-vscode",
+	"streetsidesoftware.code-spell-checker",
+	"naumovs.color-highlight",
+	"formulahendry.auto-rename-tag",
+	"styled-components.vscode-styled-components",
+	"Gruntfuggly.todo-tree",
+	"mhutchie.git-graph",
+	"njpwerner.autodocstring",
+	"TabNine.tabnine-vscode",
+	"gencay.vscode-chatgpt",
+	"ritwickdey.LiveServer",
+	"yzhang.markdown-all-in-one",
+	"mitchdenny.ecdc"
+]
 }
